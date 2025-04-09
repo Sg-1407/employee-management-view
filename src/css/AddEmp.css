@@ -1,0 +1,32 @@
+.container{
+    text-align: center;
+    margin: 2%;
+}
+.addempbtn{
+    padding: 1% 2%;
+    font-weight: bold;
+}
+table{
+   width: 100%;
+   margin-top: 2%;
+}
+thead{
+    background: black;
+}
+th{
+    
+    padding: 1%;
+}
+td{
+    
+    padding: 1%;
+}
+tr:hover{
+    background-color: #f3eded;
+    color: black;
+    
+}
+tr a:hover{
+    color: black;
+    font-weight: bold;
+};
